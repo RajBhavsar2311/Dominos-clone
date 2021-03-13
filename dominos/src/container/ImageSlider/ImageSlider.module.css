@@ -1,0 +1,59 @@
+.Left{
+    margin-left: 5px;
+    width: 45%;
+}
+
+.Text{
+    color: grey;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.LeftButton{
+    width: 35px;
+    height: 35px;
+    background-color: skyblue;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 1px 1px;
+    margin-left: 60px;
+    margin-top: 60px;
+    text-align: center;
+    color: darkcyan;
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.RightButton{
+    width: 35px;
+    height: 35px;
+    background-color: skyblue;
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 1px 1px 1px 1px;
+    margin-left: -55px;
+    margin-top: 60px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: darkcyan;
+    cursor: pointer;
+}
+
+.LeftDiv{
+    width: 10%;
+    float: left;
+}
+
+.MiddleDiv{
+    width: 80%;
+    float: left;
+}
+
+.RightDiv{
+    width: 10%;
+    float: left;
+}

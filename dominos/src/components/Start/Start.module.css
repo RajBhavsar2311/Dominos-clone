@@ -1,0 +1,78 @@
+.Heroimage {
+    background-image: url("https://www.dominos.co.in/assets/header_bg@2x.png");
+    background-color: #24201f;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: -25px;
+    color: white;
+}
+
+.Text{
+    margin-left: 20%;
+    padding-top: 20%;
+    font-weight: 500;
+    font-size: 25px;
+    color: white;
+}
+
+.Text1{
+    margin-left: 20%;
+    font-weight: 400;
+    font-size: 17px;
+    color: skyblue;
+}
+
+.Left{
+    width: 30%;
+    margin-top: -25px;
+    background-color: #24201f;
+    height: 500px;
+    float: left;
+}
+
+.Right{
+    width: 70%;
+    background-image: url("https://www.dominos.co.in/assets/header_bg@2x.png");
+    background-color: #24201f;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: -25px;
+    color: white;
+    float: left;
+}
+
+.Button{
+    width: 100%;
+    height: 70px;
+    background-color: lightseagreen;
+    color: white;
+    margin-left: 20%;
+}
+
+.ButtonText{
+    margin-left: 11%;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 19px;
+}
+
+.LeftImage{
+    width: 100%;
+    background-image: url("https://www.dominos.co.in/assets/banner_brand_page_29032020.jpg");
+    background-color: #24201f;
+    height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-top: -25px;
+    color: white;
+    margin-top: 25px;
+    margin-left: 70px;
+}

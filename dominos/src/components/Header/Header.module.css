@@ -1,0 +1,47 @@
+li{
+    display: inline-table;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 22px;
+}
+
+li:hover{
+    color: lightskyblue;
+}
+
+.LinkEffect{
+    color: white;
+    text-decoration: none;
+}
+
+.LinkEffect:hover{
+    color: lightskyblue;
+}
+
+.Graphics{
+    background-color: #24201f;
+    width: 100%;
+    color: white;
+    margin-top: -19px;
+    font-size: large;
+    font-weight: 300;
+}
+
+.Right{
+    margin-right: 2%;
+}
+
+.Button{
+    font-size: 23px;
+    font-weight: 300;
+    border-radius: 5px;
+    border-width: 0px;
+    background-color: #24201f;
+    color: white;
+    height: 35px;
+}
+
+.Button:hover{
+    color: white;
+    background-color: royalblue;
+}

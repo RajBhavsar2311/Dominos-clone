@@ -1,0 +1,55 @@
+.Text{
+    color: grey;
+    font-weight: 700;
+    font-size: 30px;
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.set{
+    margin-top: 280px;
+}
+
+.Left{
+    width: 20%;
+    float: left;
+    margin-left: 45px;
+}
+
+.MMidle{
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+}
+
+.Middle{
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+}
+
+.Right{
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+}
+
+.Left:hover{
+    box-shadow: 5px 5px 10px 10px grey;
+    border-radius: 5px;
+}
+
+.MMidle:hover{
+    box-shadow: 5px 5px 10px 10px grey;
+    border-radius: 5px;
+}
+
+.Middle:hover{
+    box-shadow: 5px 5px 10px 10px grey;
+    border-radius: 5px;
+}
+
+.Right:hover{
+    box-shadow: 5px 5px 10px 10px grey;
+    border-radius: 5px;
+}

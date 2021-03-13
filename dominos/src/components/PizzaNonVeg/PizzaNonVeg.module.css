@@ -1,0 +1,23 @@
+.Text{
+    font-size: large;
+    color: red;
+    font-weight: 400;
+    text-align: center;
+}
+
+.Left{
+    width: 30%;
+    float: left;
+}
+
+.Middle{
+    width: 30%;
+    float: left;
+    margin-left: 40px;
+}
+
+.Right{
+    width: 30%;
+    float: left;
+    margin-left: 40px;
+}
